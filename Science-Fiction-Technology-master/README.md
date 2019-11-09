@@ -6,6 +6,6 @@ Collaborators can add their science fiction ideas or existing science fiction co
 
 A concept is sorted into one or more categories.
 
-The text files can be available for analysis.
-
+The text files can be available for analysis. This is an example of how GitHub can be used to train AI algorithms to learn
+about creativity.
 
