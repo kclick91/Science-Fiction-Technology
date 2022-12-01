@@ -1,3 +1,5 @@
 - Transfer opponent learning/capability. This is where an AI or algorithms
 adapts to an opponent's capability in one game from the data from an entirely
-separate game.
+separate game. For example, preparing for a checkers game based on an othello
+game.
+- 
