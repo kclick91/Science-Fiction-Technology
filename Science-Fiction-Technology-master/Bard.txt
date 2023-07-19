@@ -1,0 +1,56 @@
+- (Bard Full Conversation) "Provide a table that compares OpenAI and DeepMind where each is rated from 1, being far behind, 5, being at the same pace, and 10 being far ahead. The categories are architecture, human talent on the team, funding, and societal impact."
+Sure, here is a table comparing OpenAI and DeepMind in terms of architecture, human talent on the team, funding, and societal impact:
+
+| Category | OpenAI | DeepMind |
+|---|---|---|
+| Architecture | 7 | 8 |
+| Human talent on the team | 8 | 7 |
+| Funding | 8 | 10 |
+| Societal impact | 6 | 7 |
+
+**Architecture**
+
+OpenAI and DeepMind are both pioneers in the field of artificial intelligence, and they have both developed cutting-edge architectures for their AI models. However, OpenAI's architecture is generally considered to be more flexible and scalable than DeepMind's. This is because OpenAI's architecture is based on the transformer model, which is a more powerful and efficient model than the recurrent neural network (RNN) model that DeepMind uses.
+
+**Human talent on the team**
+
+Both OpenAI and DeepMind have assembled world-class teams of AI researchers and engineers. However, OpenAI's team is generally considered to be more diverse and experienced than DeepMind's. This is because OpenAI has a wider range of funding sources, which allows them to attract a wider range of talent.
+
+**Funding**
+
+OpenAI has raised a total of $1.9 billion in funding, while DeepMind has raised a total of $1.4 billion. This gives OpenAI a significant financial advantage, which allows them to invest more in research and development.
+
+**Societal impact**
+
+OpenAI and DeepMind are both committed to the responsible development of artificial intelligence. However, OpenAI has been more vocal about their commitment to societal impact. For example, OpenAI has published a set of principles for the safe development of artificial intelligence, and they have also created a number of initiatives to promote the responsible use of AI.
+
+Overall, OpenAI and DeepMind are both leading AI research organizations. However, OpenAI has a number of advantages over DeepMind, including a more flexible and scalable architecture, a more diverse and experienced team, and more funding. These advantages give OpenAI a greater potential to have a positive societal impact.
+User
+"Provide the same table but for the year 2040."
+Bard
+Sure, here is a table comparing OpenAI and DeepMind in terms of architecture, human talent on the team, funding, and societal impact in the year 2040:
+
+| Category | OpenAI | DeepMind |
+|---|---|---|
+| Architecture | 10 | 7 |
+| Human talent on the team | 10 | 8 |
+| Funding | 15 | 12 |
+| Societal impact | 10 | 9 |
+
+**Architecture**
+
+By 2040, OpenAI's architecture will be far ahead of DeepMind's. OpenAI will have continued to develop and improve their transformer model, while DeepMind will have been unable to keep up. This is because OpenAI has a much larger team of engineers and researchers dedicated to architecture development, and they have also been able to attract more top talent.
+
+**Human talent on the team**
+
+OpenAI's team will continue to be the most diverse and experienced in the world. They will have attracted even more top talent from all over the world, and they will have developed even closer relationships with universities and research institutions. DeepMind will have made some progress in this area, but they will still lag behind OpenAI.
+
+**Funding**
+
+OpenAI will have raised well over $10 billion in funding by 2040. This will allow them to continue to invest heavily in research and development, and it will also give them the resources to expand their operations and reach. DeepMind will have also raised a significant amount of funding, but they will still be behind OpenAI.
+
+**Societal impact**
+
+OpenAI will have had a profound societal impact by 2040. Their AI models will be used in a wide range of applications, from healthcare to transportation to education. They will also have played a major role in shaping the future of work. DeepMind will have also had a positive societal impact, but they will not have had the same level of impact as OpenAI.
+
+Overall, OpenAI will be the clear leader in AI research and development by 2040. They will have the best architecture, the most talented team, the most funding, and the greatest societal impact.
