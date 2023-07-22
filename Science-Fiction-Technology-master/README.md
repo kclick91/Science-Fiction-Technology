@@ -6,3 +6,8 @@ and input from ChatGPT, Bing Chat, Bard, and other AI tools.
 cd Science-Fiction-Technology-master
 
 findstr /s /i KeyWordGoesHere ASTERISK.ASTERISK
+
+## Search through all files using cmd prompt and print to a new file
+cd Science-Fiction-Technology-master
+
+findstr /s /i KeyWordGoesHere ASTERISK.ASTERISK > FileNameGoesHere.txt
