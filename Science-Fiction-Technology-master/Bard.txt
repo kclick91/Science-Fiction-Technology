@@ -54,3 +54,76 @@ OpenAI will have raised well over $10 billion in funding by 2040. This will allo
 OpenAI will have had a profound societal impact by 2040. Their AI models will be used in a wide range of applications, from healthcare to transportation to education. They will also have played a major role in shaping the future of work. DeepMind will have also had a positive societal impact, but they will not have had the same level of impact as OpenAI.
 
 Overall, OpenAI will be the clear leader in AI research and development by 2040. They will have the best architecture, the most talented team, the most funding, and the greatest societal impact.
+- (Bard) "Provide a table of the 25 most important natural resources and list what they are used for currently, list what they could be used for in 25 years, and list what they could be used for in 50 years."
+Bard Draft One
+Here is a table of the 25 most important natural resources and their uses:
+
+| Natural Resource | Current Uses | Potential Uses in 25 Years | Potential Uses in 50 Years |
+|---|---|---|---|
+| Air | Breathing, photosynthesis, wind power | Clean air technology, air purification | Carbon capture and storage |
+| Water | Drinking, bathing, cooking, agriculture, industry | Desalination, water purification, water conservation | Water recycling, water reuse |
+| Land | Agriculture, forestry, housing, industry | Renewable energy, green infrastructure, sustainable development | Rewilding, climate change mitigation |
+| Sunlight | Solar power, photosynthesis | Solar-powered vehicles, solar-powered buildings | Solar-powered desalination, solar-powered water purification |
+| Soil | Agriculture, forestry, habitat for plants and animals | Sustainable agriculture, soil remediation, soil conservation | Soil carbon sequestration, soil-based waste management |
+| Forests | Timber, paper, fuel, habitat for plants and animals | Sustainable forestry, carbon capture and storage, renewable energy | Forest restoration, forest-based medicines |
+| Oceans | Food, transportation, recreation, tourism, climate regulation | Marine renewable energy, marine aquaculture, ocean acidification mitigation | Marine pollution prevention, marine biodiversity conservation |
+| Minerals | Metals, non-metals, construction materials | Recycling, sustainable mining, resource efficiency | Rare earth elements, new materials |
+| Fossil fuels | Oil, coal, natural gas, petroleum products | Renewable energy, energy efficiency, carbon capture and storage | Carbon neutral fuels, hydrogen fuel cells |
+| Wildlife | Food, clothing, medicine, recreation, tourism | Wildlife conservation, sustainable use of wildlife, ecotourism | Wildlife reintroduction, genetic engineering |
+| Genetic resources | Crops, livestock, pharmaceuticals, industrial products | Sustainable agriculture, gene editing, personalized medicine | Synthetic biology, new products and services |
+| Water vapor | Climate regulation, precipitation, cloud formation | Cloud seeding, weather modification, water resource management | Climate change mitigation, water security |
+| Wind | Wind power, recreation | Offshore wind power, wind-powered transportation | Wind-powered desalination, wind-powered water purification |
+| Geothermal energy | Heat, electricity | Geothermal desalination, geothermal water purification | Geothermal carbon capture and storage |
+| Hydrogen | Fuel, chemical feedstock | Hydrogen fuel cells, hydrogen-powered vehicles | Hydrogen-powered infrastructure, hydrogen-based economy |
+| Biomass | Fuel, food, materials | Biofuels, bio-based plastics, sustainable agriculture | Bio-based chemicals, bio-based pharmaceuticals |
+| Nuclear energy | Electricity | Nuclear fusion, nuclear waste disposal | Nuclear desalination, nuclear water purification |
+| Space resources | Helium-3, water, metals | Space mining, space-based solar power | Space-based manufacturing, space-based tourism |
+
+These are just a few examples of the many ways that natural resources can be used. As technology advances, we will find even more ways to use these resources to improve our lives and protect the environment.
+Bard Draft Two
+Here is a table of the 25 most important natural resources and their uses, both current and potential:
+
+| Natural Resource | Current Uses | Potential Uses in 25 Years | Potential Uses in 50 Years |
+|---|---|---|---|
+| **Water** | Drinking, bathing, cooking, cleaning, irrigation, industry | Desalination, water purification, water recycling, water storage | Water conservation, water reuse, water desalination using renewable energy |
+| **Air** | Breathing, photosynthesis, climate regulation | Air purification, air conditioning, air filtration | Air pollution control, air quality monitoring, air quality prediction |
+| **Soil** | Agriculture, forestry, construction, recreation | Soil remediation, soil conservation, soil erosion control | Soil restoration, soil carbon sequestration, soil-based renewable energy |
+| **Sunlight** | Solar power, photosynthesis, vitamin D production | Solar thermal energy, solar water heating, solar desalination | Solar-powered desalination using renewable energy, solar-powered transportation |
+| **Wind** | Wind power, wind energy | Wind-powered desalination, wind-powered transportation | Wind-powered desalination using renewable energy, wind-powered transportation using renewable energy |
+| **Hydropower** | Electricity generation, irrigation, flood control | Hydropower storage, hydropower desalination | Hydropower storage using renewable energy, hydropower desalination using renewable energy |
+| **Fossil fuels** | Electricity generation, heating, transportation, industry | Carbon capture and storage, biofuels, hydrogen fuel cells | Carbon-neutral energy production, renewable energy production |
+| **Nuclear energy** | Electricity generation | Nuclear fusion, thorium reactors | Nuclear fusion using renewable energy, thorium reactors using renewable energy |
+| **Minerals** | Construction materials, metals, fertilizers, chemicals, batteries | 3D printing materials, new materials, medical devices | New materials using renewable energy, medical devices using renewable energy |
+| **Organic matter** | Food, fuel, fertilizer, textiles | Biofuels, bioplastics, bioremediation | Biofuels using renewable energy, bioplastics using renewable energy, bioremediation using renewable energy |
+| **Living organisms** | Food, medicine, clothing, recreation, education | Genetic engineering, aquaculture, wildlife conservation | Genetic engineering using renewable energy, aquaculture using renewable energy, wildlife conservation using renewable energy |
+| **Land** | Agriculture, forestry, construction, recreation, housing | Land reclamation, land conservation, land restoration | Land restoration using renewable energy, land reclamation using renewable energy |
+| **Oceans** | Food, transportation, recreation, tourism, climate regulation | Ocean acidification mitigation, ocean pollution control, ocean exploration | Ocean acidification mitigation using renewable energy, ocean pollution control using renewable energy, ocean exploration using renewable energy |
+| **Ice caps and glaciers** | Fresh water, climate regulation | Glacier retreat mitigation, ice sheet stability research | Glacier retreat mitigation using renewable energy, ice sheet stability research using renewable energy |
+| **Atmosphere** | Climate regulation, weather forecasting, air quality monitoring | Atmospheric carbon dioxide removal, atmospheric methane removal | Atmospheric carbon dioxide removal using renewable energy, atmospheric methane removal using renewable energy |
+| **Biosphere** | Biodiversity, ecosystem services, food production, climate regulation | Biosphere conservation, biosphere restoration | Biosphere conservation using renewable energy, biosphere restoration using renewable energy |
+| **Human capital** | Education, research, innovation, entrepreneurship, leadership | Lifelong learning, global citizenship, sustainability education | Lifelong learning using renewable energy, global citizenship education using renewable energy, sustainability education using renewable energy |
+
+This is just a snapshot of the many potential uses for natural resources in the future. As technology advances, we will continue to find new ways to use these resources to meet our needs and improve our lives.
+Bard Draft Three
+Sure, here is a table of the 25 most important natural resources and their uses:
+
+| Natural Resource | Current Uses | Potential Uses in 25 Years | Potential Uses in 50 Years |
+|---|---|---|---|
+| Water | Drinking, bathing, cooking, cleaning, agriculture, industry | Desalination, water recycling, water conservation | Water treatment, water purification, water desalination |
+| Air | Breathing, photosynthesis, weather | Air purification, air conditioning, air filtration | Air pollution control, air quality monitoring, air quality forecasting |
+| Soil | Agriculture, forestry, habitat for plants and animals | Soil remediation, soil conservation, soil erosion control | Soil carbon sequestration, soil nutrient cycling, soil biodiversity |
+| Sunlight | Solar power, photosynthesis, vitamin D production | Solar energy storage, solar desalination, solar cooking | Solar-powered vehicles, solar-powered homes, solar-powered factories |
+| Wind | Wind power, wind energy, windsurfing | Wind energy storage, wind energy forecasting, wind energy efficiency | Wind-powered transportation, wind-powered desalination, wind-powered agriculture |
+| Waterpower | Hydroelectric power, hydroelectric energy | Tidal power, wave power, ocean thermal energy conversion | Ocean current power, offshore wind power, floating solar power |
+| Fossil fuels | Oil, coal, natural gas | Petroleum refining, coal gasification, natural gas processing | Carbon capture and storage, synthetic fuels, hydrogen production |
+| Nuclear energy | Nuclear power, nuclear energy | Nuclear fusion, thorium-based nuclear power | Small modular nuclear reactors, nuclear waste disposal |
+| Metals | Iron, steel, aluminum, copper, gold, silver | Construction, manufacturing, electronics, jewelry, coins | 3D printing, renewable energy, medical devices, self-driving cars |
+| Minerals | Sand, gravel, limestone, salt, copper, iron ore | Construction, manufacturing, agriculture, food production, water treatment | 3D printing, renewable energy, medical devices, self-driving cars |
+| Wood | Paper, construction, furniture, fuel, food | Biomass energy, biofuels, bioplastics, biocomposites | Bioremediation, carbon sequestration, sustainable agriculture |
+| Plants | Food, fiber, medicine, fuel, shelter | Biomass energy, biofuels, bioplastics, biocomposites | Bioremediation, carbon sequestration, sustainable agriculture |
+| Animals | Food, fiber, medicine, companionship, labor | Animal-powered transportation, animal-powered agriculture, animal-powered waste disposal | Animal-assisted therapy, animal-assisted education, animal-assisted service |
+| Biodiversity | Ecosystem services, genetic resources, cultural resources | Ecosystem restoration, ecosystem management, biodiversity conservation | Ecosystem-based climate change adaptation, ecosystem-based disaster risk reduction |
+| Land | Agriculture, forestry, housing, transportation, recreation | Land reclamation, land restoration, land conservation | Land-based renewable energy, land-based carbon sequestration |
+| Space | Satellites, space exploration, space tourism | Space-based solar power, space-based telescopes, space-based communications | Space-based manufacturing, space-based agriculture, space-based tourism |
+
+This is just a brief overview of the potential uses of natural resources in the future. As technology continues to advance, we may find even more ways to use these resources to improve our lives and protect the environment.
