@@ -172,3 +172,27 @@ to achieve a goal if that sub-goal was achieved.'"
 8. "In a near-future sports league, athletes wear neural implants that connect to a centralized system. The system uses a neural network to assign rewards to different moves and strategies, determining the winners based on the efficiency and creativity of their sub-goals during competitions."
 9. "A team of scientists creates an AI-powered robot that assists in disaster response and rescue missions. The robot's neural network assigns rewards to sub-goals like locating survivors or extinguishing fires, allowing it to adapt and improve its performance in real-time scenarios."
 10. "In a society driven by automation, a company develops a neural network algorithm that assigns rewards to different tasks performed by robots. The algorithm ensures that sub-goals with higher weights, such as productivity or customer satisfaction, are prioritized in the robots' decision-making process."
+- (ChatGPT) "Provide 10 common algorithms that would become more like artificial intelligence if one of the values were treated like a parameter. List the value."
+Sure! Treating one of the values in these common algorithms as a parameter could make them more adaptable and potentially mimic artificial intelligence behavior. Here are ten algorithms with a designated value that could be treated as a parameter:
+
+1. k-Nearest Neighbors (k-NN) Algorithm: Treat the value of 'k' (number of neighbors) as a parameter, allowing the algorithm to dynamically adjust the number of neighbors to consider based on data characteristics and complexity.
+
+2. Decision Trees: Treat the criterion for splitting nodes (e.g., Gini impurity, entropy) as a parameter, enabling the algorithm to choose the best measure based on the data's distribution.
+
+3. Support Vector Machines (SVM): Treat the kernel function (e.g., linear, polynomial, radial basis function) as a parameter, allowing the algorithm to select the most appropriate kernel for different datasets.
+
+4. Neural Networks: Treat the number of hidden layers as a parameter, letting the algorithm determine the optimal depth for each specific task.
+
+5. Genetic Algorithms: Treat the selection and crossover probabilities as parameters, allowing the algorithm to adapt its evolution strategy based on the problem's complexity.
+
+6. Particle Swarm Optimization (PSO): Treat the inertia weight and acceleration coefficients as parameters, enabling the algorithm to adjust its exploration-exploitation trade-off dynamically.
+
+7. Ant Colony Optimization (ACO): Treat the pheromone evaporation rate as a parameter, giving the algorithm the ability to control the rate at which pheromone information dissipates.
+
+8. Reinforcement Learning (Q-Learning): Treat the learning rate (alpha) as a parameter, allowing the algorithm to adjust how much it learns from each new experience.
+
+9. PageRank Algorithm: Treat the damping factor (typically represented by 'd') as a parameter, allowing the algorithm to regulate the importance of random jumps versus link-following.
+
+10. Apriori Algorithm (Frequent Itemset Mining): Treat the minimum support threshold as a parameter, enabling the algorithm to discover itemsets based on different levels of minimum support.
+
+By treating these values as parameters, the algorithms can become more flexible and adaptable, improving their performance across various scenarios and datasets.
