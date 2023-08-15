@@ -180,3 +180,82 @@ Source: Conversation with Bing, 7/23/2023
 (3) Video Summarizer - Summarize Youtube Videos - Mindgrasp. https://www.mindgrasp.ai/ai-generated-summaries.
 
 () contains a correction to what was actually entered.
+Chat Three
+"Explain how transformer architectures work. Include the purpose of queries, keys and values. Include the meaning of multi-head attention. Include a description of and purpose of the input and output embeddings."
+A transformer architecture is a type of neural network architecture introduced in 2017 by Vaswani et al. in their paper "Attention Is All You Need"¹. It is based on the concept of self-attention, where the model learns to weigh the importance of different parts of the input sequence when making predictions.
+
+In a transformer, the input sequence is first passed through an input embedding layer, which converts the discrete input tokens into continuous vectors. These vectors are then passed through multiple layers of multi-head attention and feedforward neural networks.
+
+In each multi-head attention layer, the input vectors are split into three parts: queries, keys, and values. The queries and keys are used to calculate attention scores, which represent the importance of each value in the input sequence for each position in the output sequence. The values are then weighted by these attention scores and summed to produce the output of the attention layer.
+
+Multi-head attention means that this process is performed multiple times in parallel, with different linear transformations applied to the queries, keys, and values for each head. The outputs of all heads are then concatenated and passed through another linear transformation to produce the final output of the multi-head attention layer.
+
+The purpose of using multiple heads is to allow the model to attend to different parts of the input sequence for different purposes. For example, one head might attend to syntactic relationships between words, while another head might attend to semantic relationships.
+
+After passing through all layers of the transformer, the output vectors are passed through an output embedding layer, which converts them back into discrete output tokens. The purpose of the output embedding layer is to map the continuous output vectors back into a discrete space that can be interpreted as predictions.
+
+I hope this explanation helps you understand how transformer architectures work and the purpose of queries, keys, values, multi-head attention, and input/output embeddings. Let me know if you have any further questions! 😊
+
+Source: Conversation with Bing, 8/14/2023
+(1) Fast Transformer Decoding: One Write-Head is All You Need - arXiv.org. https://arxiv.org/pdf/1911.02150.pdf.
+(2) How to Implement Multi-Head Attention from Scratch in TensorFlow and .... https://machinelearningmastery.com/how-to-implement-multi-head-attention-from-scratch-in-tensorflow-and-keras/.
+(3) Multi-head attention mechanism: “queries”, “keys”, and “values,” over .... https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/.
+(4) The Transformer Attention Mechanism - MachineLearningMastery.com. https://machinelearningmastery.com/the-transformer-attention-mechanism/.
+(5) The Transformer Model - MachineLearningMastery.com. https://machinelearningmastery.com/the-transformer-model/.
+"Provide the math behind weighing the values after the attention scores are decided."
+Sure! After the attention scores are calculated, the values are weighted by these scores to produce the final output of the attention layer. The math behind this process is as follows:
+
+First, the attention scores are calculated by taking the dot product of the queries and keys, and then applying a scaling factor and a softmax function to produce a probability distribution over the input sequence. This can be expressed mathematically as:
+
+$$
+\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+$$
+
+where $Q$ represents the queries, $K$ represents the keys, $V$ represents the values, and $d_k$ is the dimension of the keys.
+
+The softmax function ensures that the attention scores sum to 1, so they can be interpreted as probabilities. The scaling factor $\sqrt{d_k}$ is used to prevent the dot products from growing too large in magnitude, which can cause numerical instability when applying the softmax function.
+
+Once the attention scores have been calculated, they are used to weight the values by taking their dot product with the values. This produces a weighted sum of the values, where each value is weighted by its corresponding attention score. This weighted sum represents the final output of the attention layer.
+
+I hope this explanation helps you understand how values are weighted by attention scores in transformer architectures! Let me know if you have any further questions. 😊
+
+Source: Conversation with Bing, 8/14/2023
+(1) What exactly are keys, queries, and values in attention mechanisms?. https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms.
+(2) Why multi-head self attention works: math, intuitions and 10+1 hidden .... https://theaisummer.com/self-attention/.
+(3) Multi-head attention mechanism: “queries”, “keys”, and “values,” over .... https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/.
+"Provide a random sentence in English and show how the attention scores are determined and how they are applied to the values."
+Sure! Here's a random sentence in English: "The cat sat on the mat."
+
+Let's say we want to calculate the attention scores for the word "cat" in this sentence. We would first need to represent each word in the sentence as a vector, using an embedding method such as word2vec or GloVe. These vectors are known as the "values" in the attention mechanism.
+
+Next, we would need to calculate the "queries" and "keys" for each word in the sentence. These are typically calculated by applying a linear transformation to the input vectors (i.e., the values). For example, we might have a weight matrix `Wq` that we use to calculate the queries, and a weight matrix `Wk` that we use to calculate the keys.
+
+Once we have the queries, keys, and values for each word in the sentence, we can calculate the attention scores. The attention score for a given query and key is calculated by taking their dot product and then applying a scaling factor and a softmax function. This can be expressed mathematically as:
+
+$$
+\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+$$
+
+where $Q$ represents the queries, $K$ represents the keys, $V$ represents the values, and $d_k$ is the dimension of the keys.
+
+In our example, let's say we want to calculate the attention scores for the word "cat" with respect to all other words in the sentence. We would take the query vector for "cat" and calculate its dot product with the transpose of the key vector for each word in the sentence (including itself). This would give us a set of attention scores that represent how much attention should be paid to each word in the sentence when processing "cat".
+
+Once we have these attention scores, we can apply them to the values by taking their dot product with the value vectors. This produces a weighted sum of the values, where each value is weighted by its corresponding attention score. This weighted sum represents how much information from each word in the sentence should be incorporated into our representation of "cat".
+
+I hope this helps you understand how attention scores are determined and applied to values! Let me know if you have any further questions. 😊
+
+Source: Conversation with Bing, 8/14/2023
+(1) Random Sentence Generator — 1000+ Random Sentences. https://randomwordgenerator.com/sentence.php.
+(2) Random Sentence Generator - The Word Finder. https://www.thewordfinder.com/random-sentence-generator/.
+(3) Random Definition & Meaning - Merriam-Webster. https://www.merriam-webster.com/dictionary/random.
+(4) Examples of 'random' in a sentence | Collins English Sentences. https://www.collinsdictionary.com/sentences/english/random.
+(5) 6 Ways to Generate Random Sentence in Python - Python Pool. https://www.pythonpool.com/generate-random-sentence-in-python/.
+(6) What exactly are keys, queries, and values in attention mechanisms?. https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms.
+(7) The donut and Altmetric Attention Score - Altmetric. https://www.altmetric.com/about-us/our-data/donut-and-altmetric-attention-score/.
+(8) The Transformer Attention Mechanism - MachineLearningMastery.com. https://machinelearningmastery.com/the-transformer-attention-mechanism/.
+(9) Understanding Attention In Transformers Models - Medium. https://medium.com/analytics-vidhya/understanding-attention-in-transformers-models-57bada0cce3e.
+(10) Question About Attention Score Computation & Intuition. https://discuss.huggingface.co/t/question-about-attention-score-computation-intuition/3141.
+(11) The Attention Mechanism from Scratch - Machine Learning Mastery. https://machinelearningmastery.com/the-attention-mechanism-from-scratch/.
+(12) How to Implement Scaled Dot-Product Attention from Scratch in .... https://machinelearningmastery.com/how-to-implement-scaled-dot-product-attention-from-scratch-in-tensorflow-and-keras/.
+(13) Self -attention in NLP - GeeksforGeeks. https://www.geeksforgeeks.org/self-attention-in-nlp/.
+(14) Multi-head attention mechanism: “queries”, “keys”, and “values,” over .... https://data-science-blog.com/blog/2021/04/07/multi-head-attention-mechanism/.
