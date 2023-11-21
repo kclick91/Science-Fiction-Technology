@@ -23,3 +23,39 @@ Sure, here are 10 lesser-discussed science fiction technologies that could poten
 10. **Autonomous Self-Replicating Robots**: These could perform tasks such as cleaning up pollution or terraforming planets.
 
 Remember, while these technologies are fascinating to think about, they also come with ethical, societal, and practical considerations that would need to be carefully addressed.
+- (Bing Chat More Precise) "Provide a table of 20 top science fiction technologies with two ratings from 1 to 10 where the first rating is how possible it is with 10 being the most possible and the second rating is how beneficial that technology is where 10 is the most beneficial."
+Bing Chat
+Here are some of the top science fiction technologies, along with their possibility and benefit ratings:
+
+| Technology | Possibility Rating | Benefit Rating |
+| --- | --- | --- |
+| 1. The Holodeck (Star Trek) | 1 | 8 |
+| 2. KITT (Knight Rider) | 6 | 7 |
+| 3. Cortical Stacks (Altered Carbon) | 2 | 5 |
+| 4. JARVIS (Marvel Universe) | 7 | 9 |
+| 5. Hand Terminals (The Expanse) | 6 | 8 |
+| 6. Transporters / Teleporters (Star Trek) | 1 | 10 |
+| 7. Gun implanted inside arm/hand (Upgrade) | 3 | 4 |
+| 8. Time travel (Dr. Who, Back to the Future, Looper, etc.) | 1 | 7 |
+| 9. AR and VR user interfaces | 8 | 8 |
+| 10. Haptic suits (Ready Player One) | 7 | 7 |
+| 11. Replicators (Star Trek) | 2 | 10 |
+| 12. Light Saber (Star Wars) | 1 | 6 |
+| 13. Neuralizer (Men in Black) | 2 | 3 |
+| 14. Invisibility Cloak (Harry Potter) | 1 | 7 |
+| 15. Hoverboard (Back to the Future) | 4 | 6 |
+| 16. Bionic Limbs (Star Wars) | 7 | 9 |
+| 17. Memory Implants (Total Recall) | 3 | 5 |
+| 18. Universal Translator (Star Trek) | 8 | 10 |
+| 19. Telepathy Helmet (X-Men) | 1 | 6 |
+| 20. Food Pills (Various) | 4 | 5 |
+
+Please note that these ratings are subjective and can vary based on different perspectives¹³. The possibility rating is based on the current state of technology and scientific understanding, and the benefit rating is based on the potential positive impact on society. Both ratings are on a scale of 1 to 10, with 10 being the highest.
+
+Source: Conversation with Bing, 11/21/2023
+(1) 10 Most Memorable Fictional Technologies | TechSpot. https://www.techspot.com/article/2213-10-best-fictional-technologies/.
+(2) The Most Astonishing Sci-fi Technologies That Actually Exist. https://interestingengineering.com/culture/most-astonishing-sci-fi-technologies-actually-exist.
+(3) . https://bing.com/search?q=top+science+fiction+technologies.
+(4) 20 Best Sci-Fi Gadgets In Film & TV - CBR. https://www.cbr.com/best-sci-fi-gadgets-film-television/.
+(5) undefined. https://www.technologyreview.com/2018/04/05/67057/when-science-fiction-inspires-real-technology/.
+(6) undefined. https://interestingengineering.com/culture/science-fiction-ideas-and-technologies-that-could-be-possible-in-the-distant-future.
