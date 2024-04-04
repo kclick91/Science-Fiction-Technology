@@ -21,3 +21,6 @@ grep KeyWordGoesHere ASTERISK.ASTERISK
 cd Science-Fiction-Technology-master
 
 grep KeyWordGoesHere ASTERISK.ASTERISK > FileNameGoesHere.txt
+
+## Bitcoin Payment
+If this repository was found to be useful, informative, or interesting please donate bitcoin to: 3HWVQjkWZZmRyPmRFbEtS2C9YyD8Fhfy7x
