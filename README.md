@@ -1,6 +1,6 @@
 # Science-Fiction-Technology
-A repository of science fiction technologies or advanced technologies with the help
-and input from ChatGPT, Bing Chat, Bard, and other AI tools.
+
+A one-stop shop for science fiction and advanced technology related ideas,prompts and answers using Large Language Models and AI. 
 
 ## Search through all files using cmd prompt(Windows)
 cd Science-Fiction-Technology-master
