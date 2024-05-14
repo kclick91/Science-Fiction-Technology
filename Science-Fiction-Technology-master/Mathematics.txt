@@ -33,7 +33,6 @@ These projections are speculative and subject to change based on future technolo
 - "For each of the five categories, provide 2 equations that are commonly used in engineering."
 ChatGPT
 Certainly! Here are two equations commonly used in engineering for each of the five categories:
-Certainly! Here are two equations commonly used in engineering for each of the five categories:
 
 **Quantum Computing**:
 1. **Quantum Fourier Transform**: This equation describes the quantum analog of the classical Fourier transform and is fundamental in many quantum algorithms, including Shor's algorithm for integer factorization.
