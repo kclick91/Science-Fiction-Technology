@@ -1,0 +1,110 @@
+- (ChatGPT-4o) "List 100 science fiction technologies that are NOT found in science fiction literature."
+ChatGPT
+Finding 100 science fiction technologies that are *not* found in any science fiction literature is a challenging task since science fiction literature is incredibly vast and diverse, and almost any futuristic technology you can think of has likely been explored somewhere in the genre. However, I can provide a list of 100 unique or imaginative sci-fi technologies that may not be widely covered or at least are less commonly found in well-known science fiction literature.
+
+### 100 Sci-Fi Technologies Less Common in Literature
+
+1. **Quantum Knitting Machine**: A device that can weave or create objects at a quantum level, making fabrics or materials with properties like invisibility, self-healing, or extreme durability.
+2. **Temporal Reality Layering**: Technology that allows multiple versions of reality to exist in the same physical space, like time-shifted dimensions layered on top of one another.
+3. **Molecular Time Manipulator**: A device that can slow down or speed up time, but only for individual molecules or objects.
+4. **Emotion-Based Weaponry**: Weapons that harness or manipulate emotions (like anger or fear) to increase power or incapacitate opponents.
+5. **Gravity Paint**: A substance that can be painted onto surfaces to alter their gravitational properties.
+6. **Sound Sculptor**: A device that can "sculpt" and solidify sound waves into physical objects or tools.
+7. **Neural Ink**: Tattoos or markings that can change color and pattern based on the user’s mood or health status.
+8. **Photon Paper**: Paper-thin material that can display moving images and video content, powered by ambient light.
+9. **Antimatter Drones**: Drones powered by controlled bursts of antimatter, providing near-infinite energy for exploration.
+10. **Reality Rewinder**: A device that can rewind reality within a specific radius, undoing recent events as if they never happened.
+11. **Emotion-Based Navigation System**: A navigation device that reads the user's emotions to choose the safest or most interesting route.
+12. **Quantum Keyboards**: Keyboards that allow input through thought by reading neural impulses, enhancing typing speed and reducing errors.
+13. **Subatomic Flash Drives**: Data storage that uses subatomic particles to store massive amounts of information in extremely small devices.
+14. **Biodegradable Cybernetics**: Cybernetic enhancements made from organic, biodegradable materials that integrate seamlessly into the body.
+15. **Synthetic Telepathy Helmets**: Helmets that enable people to communicate telepathically by interpreting and transmitting brainwaves.
+16. **Dynamic Atmosphere Manipulator**: A tool that can temporarily change weather patterns or atmospheric conditions for tactical purposes.
+17. **Nanobot Musicians**: Swarms of nanobots that can replicate the sounds of musical instruments or create new kinds of sounds.
+18. **Memory Ink**: An ink that stores and displays personal memories when activated by touch or thought.
+19. **Augmented DNA Replicator**: A device that replicates DNA sequences with enhanced or altered attributes for specific tasks.
+20. **Temporal Recycler**: A machine that recycles objects from the past into the present, materializing them as they existed at a chosen moment.
+21. **Photonic Skin**: Skin implants that allow humans to photosynthesize like plants, using light as an energy source.
+22. **Emotion-Driven AI Companions**: Artificial intelligences that evolve emotionally over time based on interactions with their users.
+23. **Quantum Suit**: A suit that can phase its wearer in and out of different quantum states, allowing for teleportation or intangibility.
+24. **Plasma-Scent Modulators**: Devices that can project scents over long distances, possibly for communication or mood alteration.
+25. **Multispectral Vision Contacts**: Contact lenses that allow wearers to see across the entire electromagnetic spectrum.
+26. **Hyper-Localized Weather Generators**: Small, portable devices that create microclimates around their users.
+27. **Morphable Architecture**: Buildings that can change shape and structure based on the occupants' needs or environmental conditions.
+28. **Gene Swapping Kits**: Devices that allow users to temporarily swap or edit specific genes to change physical abilities or traits.
+29. **Light Weight Shifters**: Devices that change the weight of objects without altering their mass.
+30. **Thought-Driven Engines**: Engines that are powered by human thought, using neural input to determine speed and direction.
+31. **Matter Absorption Cloaks**: Clothing that absorbs and stores matter it comes into contact with, like water, dirt, or radiation.
+32. **Multiverse Browser**: A tool that allows users to observe or interact with parallel universes.
+33. **Digital Soul Storage**: A technology that can store a person's consciousness digitally in a way that retains personality and awareness.
+34. **Electromagnetic Superglue**: A material that creates a bond so strong it can only be undone with a specific electromagnetic frequency.
+35. **Dark Matter Lenses**: Glasses or optical devices that can see into dark matter or through dark matter clouds.
+36. **Vibrational Echo Communicator**: A device that communicates through vibrations that travel through solid matter.
+37. **Psychoactive Terraforming Devices**: Machines that change the landscape based on collective human thoughts or emotions.
+38. **Infinite Fractal Storage Systems**: Storage devices that use fractal geometry to hold infinite data in finite spaces.
+39. **Living Light Bulbs**: Bioluminescent organisms genetically engineered to provide light in place of traditional bulbs.
+40. **Quantum Shields**: Shields that phase in and out of reality to block specific types of matter or energy.
+41. **Temporal Holograms**: Holograms that are visible only at certain times or under specific conditions.
+42. **Memory Projector Devices**: Devices that project a person’s memories into a visual, tangible form.
+43. **Anti-Reality Grenades**: Weapons that temporarily negate the laws of physics in a localized area.
+44. **Emotion-Capturing Cameras**: Cameras that can capture the emotions of the photographer or subjects, adding a new layer to photography.
+45. **Liquid Glass Displays**: Displays that use a special liquid that hardens into a transparent screen.
+46. **Multi-Dimensional Pens**: Writing instruments that can write in multiple dimensions simultaneously.
+47. **Light-Driven Agriculture**: Farms where crops are grown using concentrated light beams instead of soil or traditional water.
+48. **Thought-Replication Tools**: Devices that replicate objects based on the user's mental image or thoughts.
+49. **Sleep Data Extractors**: Machines that extract and store data or insights gained during sleep.
+50. **Portable Star Engines**: Compact engines capable of harnessing the power of small artificial stars for propulsion.
+51. **Emotion-Resonance Speakers**: Speakers that produce soundwaves that resonate with specific human emotions.
+52. **Dynamic Particle Cannons**: Weapons that fire charged particles that can change their properties mid-flight.
+53. **Organic Metal Fabricators**: Devices that create metal from organic material, such as plants or bio-waste.
+54. **Time-Locked Computers**: Computers that only function at specific times or time zones.
+55. **Self-Assembling Roads**: Roads that assemble themselves from raw materials using nanotechnology.
+56. **Trans-Temporal Communication Devices**: Radios that can send and receive messages across time.
+57. **Gravitational Scribing Devices**: Tools that inscribe messages or images on gravitational fields.
+58. **Living Plastics**: Plastics that can change form and function based on environmental stimuli.
+59. **Neural Emotion Reflectors**: Wearable devices that reflect and amplify the emotions of others around the wearer.
+60. **Bioluminescent Fungi Network**: Underground fungi that communicate via light signals, acting as a living internet.
+61. **Teleportation Fields**: Areas that instantly transport anything that enters them to a different location.
+62. **Omni-Language Translators**: Devices that can translate not only human languages but also animal sounds and machine code.
+63. **Quantum Thought Processors**: Devices that boost human cognitive functions by interfacing directly with quantum computers.
+64. **Invisibility Fabrics**: Fabrics that can render wearers invisible by bending light around them.
+65. **Personal Gravity Wells**: Portable devices that create small-scale gravity wells to manipulate movement or anchor objects.
+66. **Plasma Manipulation Tools**: Handheld tools that mold or shape plasma for industrial or artistic purposes.
+67. **Biomechanical Regeneration Pods**: Devices that heal injuries or regenerate body parts using a combination of technology and biological materials.
+68. **Psychic Echo Emitters**: Devices that project psychic signals over vast distances for communication or influence.
+69. **Multiphase Sleep Inducers**: Devices that induce highly efficient sleep in different phases to maximize rest in minimal time.
+70. **Virtual Scent Generators**: Devices that generate complex scents to enhance virtual or augmented reality experiences.
+71. **Digital Camouflage Skin**: Skin implants that change appearance based on surroundings or user intent.
+72. **Sonic Water Walkers**: Devices that create localized vibrations allowing users to walk on water.
+73. **Neural Pain Dampeners**: Implants that detect and neutralize pain signals in the nervous system.
+74. **Variable Density Armor**: Armor that can change density and toughness based on the threat level.
+75. **Photonic Bricks**: Bricks made of light particles, used for constructing temporary structures.
+76. **Phase Shifting Vehicles**: Vehicles that can shift between solid, liquid, and gas states.
+77. **Emotion-Adaptive Clothing**: Clothing that changes color or texture based on the wearer's emotional state.
+78. **Consciousness Merging Devices**: Machines that allow two or more people
+
+ to share a single consciousness for a period of time.
+79. **Personal Energy Shields**: Portable devices that generate energy fields to deflect objects or energy attacks.
+80. **Biomechanical Swarms**: Swarms of micro-drones that can reconfigure themselves into tools or structures.
+81. **Chrono-Stasis Containers**: Containers that stop time within their volume to preserve objects or materials.
+82. **Quantum Tunneling Tools**: Tools that allow users to pass through solid matter using controlled quantum tunneling.
+83. **Virtual Memory Augmentation**: Devices that enhance or add to a person's memory storage capacity.
+84. **Sonic Sculpting Gloves**: Gloves that allow users to create and manipulate objects with sound waves.
+85. **Synthetic Reality Inducers**: Devices that overlay a synthetic reality on top of the real world.
+86. **Plasma Writing Instruments**: Pens or pencils that write with plasma instead of ink.
+87. **Invisible Matter Manipulators**: Devices that manipulate matter that cannot be detected by normal senses.
+88. **Microbial Communication Networks**: Networks that use engineered microbes to transmit information biologically.
+89. **Gravity Boots**: Boots that can increase or decrease gravitational pull locally.
+90. **Dynamic Holographic Shields**: Shields that change shape and properties in response to specific threats.
+91. **Memory Lattice Devices**: Tools that store memories in a crystalline lattice for later retrieval.
+92. **Sentient Data Cores**: Data storage units that have basic consciousness to protect and manage their contents.
+93. **Plasma Armor**: Armor that surrounds the wearer in a thin, flexible layer of plasma for protection.
+94. **Temporal Messaging Portals**: Devices that create wormholes to send messages across time.
+95. **Electromagnetic Fabric**: Cloth that can produce electromagnetic fields to deflect or attract objects.
+96. **Living Tattoos**: Tattoos that can move, change shape, or grow based on stimuli.
+97. **Magnetic Sculpting Tools**: Tools that use magnetic fields to shape and mold metallic objects.
+98. **Reality Threading Devices**: Tools that stitch different realities or dimensions together temporarily.
+99. **Quantum Firearms**: Guns that fire bullets that exist in multiple states, making them unpredictable.
+100. **Dream Recording Devices**: Machines that can record and play back a person's dreams.
+
+These ideas aim to stretch the boundaries of science fiction while focusing on creativity and less commonly explored concepts. However, given the genre's expansive nature, some of these might overlap with obscure or less popular works.
