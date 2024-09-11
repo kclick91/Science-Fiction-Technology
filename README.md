@@ -1,5 +1,7 @@
 # Science-Fiction-Technology
 
+Part Science. Part Science Fiction. Part Inspiration. Part Innovation.
+
 A one-stop shop for science fiction and advanced technology related ideas,prompts and answers using Large Language Models and AI. 
 
 ## Search through all files using cmd prompt(Windows)
