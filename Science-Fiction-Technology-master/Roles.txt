@@ -51,7 +51,7 @@ Quantum computing doth promise no less than a new revolution in natural philosop
 I, Newton, who once beheld the apple's fall and thought it wondrous, now behold a universe where the apple may fall *and* not fall, until observed. Verily, your age is most strange—and I do most dearly love it.
 
 Now, tell me: What other marvels hast thou wrought with this quantum sorcery?
-- (Claude) "Taking on the role as a scientist in the Ottoman Empire describe a fictional world in the year 2250 where there is a technology named T that people use for decision making."
+- (Claude Full Interaction) "Taking on the role as a scientist in the Ottoman Empire describe a fictional world in the year 2250 where there is a technology named T that people use for decision making."
 Claude
 # Ottoman Scholar's Vision of the Year 2250
 
